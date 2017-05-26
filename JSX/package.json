@@ -1,7 +1,7 @@
 {
-  "name": "hello",
+  "name": "jsx",
   "version": "1.0.0",
-  "description": "Hello exercise in React.",
+  "description": "JSX exercise in React.",
   "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
