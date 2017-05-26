@@ -2,7 +2,7 @@ var config = {
   entry: './app.js',
 	
   output: {
-    path:'C:\\Users\\Ben\\Documents\\GitHub\\React.js\\Components',
+    path:'C:\\Users\\Ben\\Documents\\GitHub\\React.js\\Events',
     filename: 'app.compiled.js',
   },
 	

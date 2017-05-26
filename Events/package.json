@@ -1,7 +1,7 @@
 {
-  "name": "components",
+  "name": "events",
   "version": "1.0.0",
-  "description": "Components exercise in React.",
+  "description": "Events exercise in React.",
   "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
